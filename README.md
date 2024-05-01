@@ -1,2 +1,8 @@
 # digital-storytelling
 https://frynimarvel.wixsite.com/digitalstorytelling
+Δημοσιεύσεις
+Maravelaki, S. (2019). Digital Narration: The Pictures in School Books as a Source of Inspiration and Artistic Creation. Psychology and Behavioral Sciences, 8(5): 133-137. ISSN: 2328-7837 (Print); ISSN: 2328-7845 (Online). http://www.psybehav.org/article/201/10.11648.j.pbs.20190805.15
+Maravelaki, S. (2023). Digital storytelling for the development of 21st century skills in the secondary EFL classroom. EDULEARN23 Proceedings, 15th International Conference on Education and New Learning Technologies. IATED: Palma, Spain, 3-5 July, 2023 (pages 1169-1183, ISBN: 978-84-09-52151-7, ISSN: 2340-1117). https://library.iated.org/view/MARAVELAKI2023DIG
+Μαραβελάκη, Σ. (2020). Αφηγούμαι Ψηφιακά. Ένα εξ αποστάσεως ασύγχρονο πρόγραμμα εκπαίδευσης ενηλίκων στην ψηφιακή αφήγηση. Στα Πρακτικά του 5ου Διεθνούς Συνεδρίου για την Προώθηση της Εκπαιδευτικής Καινοτομίας, Λάρισα, 11-13 Οκτωβρίου 2019 (ISSN: 2529‐1580, SET: 978‐618‐84206‐5‐6, ISBN: 978‐618‐84206‐9‐4 (τόμος Α΄) σελίδες 1213 -1222). https://drive.google.com/drive/folders/1FJgXC1X0L_N1v9QGOIUKX3HM1vbJSGCY
+Maravelaki, S. (2020). Digital storytelling with Minecraft. In B. Hertz, V. Pinzi & M. Sefen (Eds.). Games in schools.  Using educational games in the classroom: guidelines for successful learning outcomes. A handbook for teachers (pp. 48, 66-70). Brussels: European Schoolnet. ISBN: 9789492913951 http://files.eun.org/Games_in_schools/Gamesinschools_HandbookforTeachers_2020.pdf
+Μαραβελάκη, Σ. (2020). Αφηγούμαι Ψηφιακά. Οδηγός γνωριμίας και εξοικείωσης με την ψηφιακή αφήγηση και την αξιοποίησή της στη διδακτική πράξη. ISBN 978-618-00-2089-2 https://www.openbook.gr/afigoymai-psifiaka/  
